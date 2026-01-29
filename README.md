@@ -9,11 +9,11 @@
 ```json
 {
   "name": "Tomás Salgueiro",
-  "current_job": "Software Engineer / MSc candidate",
+  "current_job": "Software Engineer / MSc Candidate",
   "education": [
     {
       "degree": "Master's in Informatics Engineering",
-      "progress": "in progress",
+      "progress": "Expected 2027",
       "specialization": "Software Security"
     },
     {
@@ -33,7 +33,7 @@
     "Technical Lead",
     "Intern - Software Engineer (Data Focus)"
   ],
-  "currently_learning": ["Rust", "Docker", "Visual Shaders"]
+  "currently_learning": ["Rust", "Docker", "Visual Shaders"],
   "hobbies": ["Gaming", "Art", "Lore"]
 }
 ```
