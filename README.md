@@ -4,7 +4,7 @@
 
 --- 
 
-<h2>🤓 About Me And My Interests</h2>
+<h2> 🤓 About Me And My Interests</h2>
 
 ```json
 {
@@ -39,7 +39,7 @@
 ```
 ---
 
-<h2>💻 Tools I Have Used And Learned</h2>
+<h2> 💻 Tools I Have Used And Learned</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="svelte" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
